@@ -1,0 +1,12 @@
+{
+    "nombre_ia": "jarvis",
+    "idioma": "es-MX",
+    "webs_personalizadas": {
+        "youtube": "https://www.youtube.com",
+        "música": "https://open.spotify.com"
+    },
+    "apps_personalizadas": {
+        "navegador": "start msedge",
+        "calculadora": "calc"
+    }
+}
